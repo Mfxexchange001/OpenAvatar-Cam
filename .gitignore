@@ -41,6 +41,6 @@ recordings/
 cache/
 temp/
 
-# Package manager lock files (optional, uncomment if needed)
-# package-lock.json
-# yarn.lock
+# OS
+Thumbs.db
+.env
